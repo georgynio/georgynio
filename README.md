@@ -6,8 +6,8 @@
 * 🥅 I'm passionate about data science.
 ---
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgynio&hide=contribs,prs&theme=merko" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgynio&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=georgynio&hide=contribs,prs&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgynio&layout=compact" />
 </p>
 
 ***
