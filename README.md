@@ -5,13 +5,14 @@
 * 🥊  My research work involves study of meteorological and weather.
 * 🥅 I'm passionate about data science.
 ---
-
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgynio&hide=contribs,prs&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgynio&layout=compact" />
 </a>
+</p>
 
 ***
 
