@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Georgynio Rosales
 
-* 🌱 I’m currently Ph.D student of Environmental Engineering at **[Universidade Federal do Espirito Santo](https://engenhariaambiental.ufes.br/en)**. \
+* 🌱 I’m currently Ph.D student of Environmental Engineering at **[Universidade Federal do Espirito Santo](https://engenhariaambiental.ufes.br/en)**.
 * 🥊  My research work involves study of meteorological and weather.
 * 🥅 I'm passionate about data science.
 ---
