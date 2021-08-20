@@ -16,8 +16,10 @@
 ***
 
 ## Language and Tools:
-<img src="https://www.python.org/static/img/python-logo.png"  width=200/>
-<img src="http://jupyter.org/assets/nav_logo.svg" width=200/>)
+<p float="left">
+<img src="https://www.python.org/static/img/python-logo.png"  width=100/>
+<img src="http://jupyter.org/assets/nav_logo.svg" width=100/>
+</p>
 <!---
 georgynio/georgynio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
