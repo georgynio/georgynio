@@ -9,7 +9,6 @@ passionate me for data science, that have the power to try explanation behavior 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgynio&hide=contribs,prs&theme=merko" />
 </a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgynio&layout=compact" />
 </a>
