@@ -2,8 +2,8 @@
 # 👋 Hi, I’m Georgynio Rosales
 
 * 🌱 I’m currently Ph.D student of Environmental Engineering at **[Universidade Federal do Espirito Santo](https://engenhariaambiental.ufes.br/en)**. \
-My thesis work 📖 involves manipulation of large databases, related to meteorological observation and weather. These and other things motivated and
-passionate me for data science, that have the power to try explanation behavior of things success with.
+* 🥊  My research work involves study of meteorological and weather.
+* 🥅 I'm passionate about data science.
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
