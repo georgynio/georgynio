@@ -3,7 +3,7 @@
 
 * 🌱 I’m currently Ph.D student of Environmental Engineering at **[Universidade Federal do Espirito Santo](https://engenhariaambiental.ufes.br/en)**.
 * 🥊  My research work involves study of meteorological and weather.
-* 🥅 I'm passionate about data science.
+<!--- * 🥅 I'm passionate about data science. --->
 ---
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=georgynio&hide=contribs,prs&theme=merko" />
