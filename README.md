@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Georgynio Rosales
 
 * 🌱 I’m currently Ph.D student of Environmental Engineering at **[Universidade Federal do Espirito Santo](https://engenhariaambiental.ufes.br/en)**.
-* 🥊  My research work involves study of meteorological and weather.
+* 🥊  My research work involves study of air polution, meteorology and weather.
 <!--- * 🥅 I'm passionate about data science. --->
 ---
 <p>
@@ -15,7 +15,7 @@
 ## Language and Tools:
 <p float="left">
 <img src="https://www.python.org/static/img/python-logo.png"  width=100/>
-<img src="http://jupyter.org/assets/nav_logo.svg" width=100/>
+<img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" width=100/>
 </p>
 <!---
 georgynio/georgynio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
